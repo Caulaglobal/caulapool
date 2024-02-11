@@ -1,0 +1,45 @@
+import 'dart:html';
+
+import 'package:flutter/material.dart';
+
+
+class HomePage extends StatelessWidget {
+  const HomePage({super.key});
+  Body(
+  // ignore: non_constant_identifier_names
+  void Function() Function(
+    final Collection
+    awaits firestore.collection("users").get();
+    for(final doc in collection.doc){
+      print(doc:data());
+      print(doc);
+    }
+    final document = firestore.collection("user").doc("FZVLybHegW20prlBXKsA");
+    document.update({
+      "age":"60",
+      "gender":true
+    });
+    (Setoveride documents);
+    //adding a document
+    final result = awaits firestore,
+    collection("user").add({
+      "name":"emma",
+      "gender":false,
+      "age":"69",
+    });
+    firestorm.collection("user").doc(result.id).update({"id":result.id,
+    });
+    print(result.id);
+  ) Function;
+  ),
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  
+  }
+
+}
+
+class Collection {
+}
