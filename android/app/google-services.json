@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159823242073",
+    "project_id": "caulapool",
+    "storage_bucket": "caulapool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159823242073:android:996249f4cc611916492248",
+        "android_client_info": {
+          "package_name": "com.example.pactice_two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFF2prXsOymX_ICqFUNhD9f8E_cd3kaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159823242073:android:9e460309d371d31f492248",
+        "android_client_info": {
+          "package_name": "com.example.ssss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFF2prXsOymX_ICqFUNhD9f8E_cd3kaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
